@@ -1,0 +1,71 @@
+ciclo 1: 20 créditos
+cálculo de una variable (sin requisitos) (4 créditos)
+matemáticas discretas I	(sin requisitos) (4 créditos)
+programación I (sin requisitos) (4 créditos)
+introducción a ciencia de datos	(sin requisitos) (2 créditos
+laboratorio de comunicación I (sin requisitos) (3 créditos)
+proyectos interdisciplinarios I (sin requisitos) (3 créditos)
+
+ciclo 2: 20 créditos
+álgebra lineal (cálculo de una variable) (2 créditos)
+cálculo vectorial (cálculo de una variable) (3 créditos)
+óptica y ondas (cálculo de una variable) (4 créditos)
+matemáticas discretas II (matemáticas discretas I) (4 créditos)
+programación II (programación I) (4 créditos)
+laboratorio de comunicación II (laboratorio de comunicación I) (3 créditos)
+
+ciclo 3: 22 créditos
+estadística y probabilidades I (cálculo de una variable y programación I) (4 créditos)
+ecuaciones diferenciales (cálculo vectorial) (3 créditos)
+programación III (programación II) (4 créditos)
+desarrollo basado en plataformas (programación II) (4 créditos)
+base de datos I (programación II) (4 créditos)
+proyectos interdisciplinarios II (proyectos interdisciplinarios I) (3 crédito)
+
+ciclo 4: 21 créditos
+estadística y probabilidades II (estadística y probabilidades I) (4 créditos)
+métodos numéricos (programación I, álgebra lineal y ecuaciones diferenciales) (3 créditos)
+algoritmos y estructuras de datos (programación III) (4 créditos)
+cloud computing (desarrollo basado en plataformas) (3 créditos)
+optimización (programación II y cálculo vectorial) (4 créditos)
+empresa y consumidor (sin requisitos) (3 créditos)
+
+ciclo 5: 21 créditos
+base de datos II (algoritmos y estructuras de datos y base de datos I) (3 créditos)
+análisis y diseño de algoritmos (algoritmos y estructuras de datos) (4 créditos)
+procesos estocásticos (matemáticas discretas II y estadística y probabilidades II) (4 créditos)
+análisis computacional de datos (programación II y estadística y probabilidades I) (4 créditos)
+perú: temas de la sociedad contemporánea (sin requisitos) (3 créditos)
+proyectos interdisciplinarios III (proyectos interdisciplinarios II) (3 créditos)
+
+ciclo 6: 22 créditos
+machine learning (programación II y estadística y probabilidades I) (4 créditos)
+computación paralela y distribuida (análisis y diseño de algoritmos) (4 créditos)
+desarrollo de productos de datos (análisis computacional de datos y cloud computing) (4 créditos)
+ética y seguridad de los datos (base de datos II) (4 créditos)
+finanzas empresariales (empresa y consumidor) (3 créditos)
+economía, gobernanza y relaciones de poder (sin requisitos) (3 créditos)
+
+ciclo 7: 15 créditos
+deep learning (machine learning) (4 créditos)
+gobernanza de datos (ética y seguridad de los datos) (3 créditos)
+storytelling con datos (desarrollo de productos de datos) (4 créditos)
+big data (base de datos I y estadística y probabilidades I) (4 créditos)
+
+ciclo 8: 14 créditos
+investigación en computación (análisis y diseño de algoritmos) (3 créditos)
+arte y tecnología (sin requisitos) (3 créditos)
+proyecto preprofesional (requisito: 100 créditos) (8 créditos)
+
+ciclo 9: 18 créditos
+análisis de series de tiempo (deep learning) (4 créditos)
+proyecto final de ciencia de datos I (investigación en computación y requisito: 130 créditos) (4 créditos)
+visualización de datos (big data) (4 créditos)
+evaluación financiera de proyectos (finanzas empresariales) (3 créditos)
+ética y tecnología (sin requisitos) (3 créditos)
+
+ciclo 10: 15 créditos
+proyecto final de ciencia de datos II (proyecto final de ciencia de datos I) (4 créditos)
+ciencia de datos computacionales (deep learning) (4 créditos)
+data mining (visualización de datos) (4 créditos)
+estrategia y organizaciones (evaluación financiera de proyectos) (3 créditos)

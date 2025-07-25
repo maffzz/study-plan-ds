@@ -1,0 +1,121 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #fefcf6;
+  color: #333;
+}
+
+header {
+  background: #a9916b;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+#reset {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background: #ffffff;
+  color: #a9916b;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+#reset:hover {
+  background: #b89789;
+  color: white;
+}
+
+#progress-container {
+  margin: 1rem auto;
+  max-width: 600px;
+  text-align: center;
+  color: white;
+}
+
+#creditos-info {
+  display: block;
+  margin-bottom: 0.3rem;
+  font-weight: bold;
+}
+
+#progress-bar {
+  background: #e3d6ab;
+  border-radius: 10px;
+  height: 20px;
+  overflow: hidden;
+}
+
+#progress-fill {
+  background: #ccdcc1;
+  height: 100%;
+  width: 0%;
+  transition: width 0.5s ease;
+}
+
+#malla {
+  padding: 1rem;
+}
+
+.ciclo {
+  margin-bottom: 2rem;
+}
+
+.ciclo h2 {
+  background: #a9916b;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  font-size: 1.2rem;
+}
+
+.cursos-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.curso {
+  padding: 1rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: background-color 0.4s ease, opacity 0.3s ease;
+  cursor: pointer;
+  position: relative;
+}
+
+.curso span {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.curso.aprobado {
+  background-color: #778979;
+  color: white;
+  text-decoration: line-through;
+}
+
+.curso.desbloqueado {
+  background-color: #ccdcc1;
+}
+
+.curso.bloqueado {
+  background-color: #e3d6ab;
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+@media (max-width: 600px) {
+  .curso {
+    font-size: 0.95rem;
+  }
+}

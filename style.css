@@ -11,7 +11,7 @@ body {
 }
 
 header {
-  background: #a9916b;
+  background: #1693a5;
   color: white;
   padding: 1rem;
   text-align: center;
@@ -21,7 +21,7 @@ header {
   margin-top: 1rem;
   padding: 0.5rem 1rem;
   background: #ffffff;
-  color: #a9916b;
+  color: #1693a5;
   border: none;
   border-radius: 8px;
   cursor: pointer;
@@ -29,7 +29,7 @@ header {
 }
 
 #reset:hover {
-  background: #b89789;
+  background: #1693a5;
   color: white;
 }
 
@@ -47,14 +47,14 @@ header {
 }
 
 #progress-bar {
-  background: #e3d6ab;
+  background: #ffffff;
   border-radius: 10px;
   height: 20px;
   overflow: hidden;
 }
 
 #progress-fill {
-  background: #ccdcc1;
+  background: #000000;
   height: 100%;
   width: 0%;
   transition: width 0.5s ease;
@@ -69,7 +69,7 @@ header {
 }
 
 .ciclo h2 {
-  background: #a9916b;
+  background: #1693a5;
   color: white;
   padding: 0.5rem 1rem;
   border-radius: 8px;
@@ -99,17 +99,17 @@ header {
 }
 
 .curso.aprobado {
-  background-color: #778979;
+  background-color: #d8d8c0;
   color: white;
   text-decoration: line-through;
 }
 
 .curso.desbloqueado {
-  background-color: #ccdcc1;
+  background-color: #f0f0d8;
 }
 
 .curso.bloqueado {
-  background-color: #e3d6ab;
+  background-color: #bbbba6;
   opacity: 0.7;
   cursor: not-allowed;
 }
